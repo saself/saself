@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saself
-- 👀 I’m interested in transportation, transport modelling, 
+- 👀 I’m interested in Urban planning, transport modelling (multimodal), 
 -   automating manual, boring tasks related to conduction and
 -   gathering surveys necessary to built a urban transport models,
 -   cleaning surveys data and gathering all these into DB
